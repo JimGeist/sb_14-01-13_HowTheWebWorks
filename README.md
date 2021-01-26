@@ -84,4 +84,4 @@ Read about the [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL)
 
 Try some of the code examples in the Chrome Console so that you can get comfortable with the basic methods and properties for instances of the URL class.
 
-_Tool was noted. _
+_Tool was noted._
